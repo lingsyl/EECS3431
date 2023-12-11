@@ -1,0 +1,11 @@
+类display；
+	输出ppm ok
+	光线碰撞
+	漫反射
+	镜面反射	
+类ray：模拟光线，从0，0，0出发
+类vec3：各种向量运算
+类sphere：球
+
+
+类raytracing：main
